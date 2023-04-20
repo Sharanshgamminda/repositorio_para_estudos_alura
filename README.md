@@ -2,7 +2,7 @@
 
 > Status: Embrionário 
 
-Não siga as instruções abaixo eu não sei o que estou fazendo ainda :trollface:
+Eu não sei o que estou fazendo ainda :trollface:
 ```
-so queria testar como isso aqui fica legal 
+node app.js
 ```
