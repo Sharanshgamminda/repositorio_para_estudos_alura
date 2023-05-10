@@ -2,6 +2,8 @@
 
 > Status: Embrionário 
 
+Olá, você veio parar no meu reposotório para estudos no git da Alura
+
 Eu não sei o que estou fazendo ainda :trollface:
 ```
 node app.js
